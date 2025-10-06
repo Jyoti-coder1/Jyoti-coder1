@@ -1,11 +1,73 @@
-## Hi 👋, I'm Jyoti
+<h1 align="center">
+  Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="35px">, I'm Jyoti
+</h1>
+<h3 align="center">
+  Full Stack Developer 💻 | Enthusiastic Frontend Developer 🎨
+</h3>
 
-- I'm a Dedicated software developer with strong skills in HTML, CSS, JavaScript. React, TypeScript.
-- I like to build websites/application that serves the world and always want to enhance my knowledge & adpot new technologies that make impact on people. My interest in web development started when I joined Masai School to learn full stack Web-Development — taught me alot about HTML & CSS. Fast Forwarding to today, I built a number of web applications and major projects. Learned a great deal about teamwork, leadership, and communication. After months of rigorous training, here I am looking for an opportunity as a Frontend Developer.
-- I'm currently learning Backend Developer.
-- Ask me about Frontend topics like JavaScript, HTML, CSS, React, Redux, TypeScript, DSA, etc.
-- I like interacting with new peoples and explore the world.
+---
 
-  
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Jyoti-coder1&show_icons=true"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-coder1&layout=compact"/>
+### 🌱 Current Focus
+- ⚛ Building **Full-Stack Web Apps** with the MERN stack  
+- 🎨 Improving **UI/UX skills** and exploring **modern frontend frameworks** like Chakra UI & TailwindCSS  
+- ⚡ Practicing *clean code, scalability, and performance*  
+
+---
+
+### 📖 Learning Journey
+- 🟨 Deepening understanding of **React, JavaScript, and TypeScript**  
+- 🌐 Enhancing knowledge in **Node.js, Express, and MongoDB**  
+- 🚀 Working on **real-world projects** to apply Full Stack skills  
+
+---
+
+### 💡 Passion & Goals
+- ✨ Creating **clean, maintainable, and efficient code**  
+- 📚 Continuously learning **new technologies and frameworks**  
+- 🤝 Contributing to **open-source projects**  
+- 🔹 Check out my work: [Portfolio Website](https://jyoti-coder1.github.io/portfolio/)
+
+---
+
+### 💬 Ask Me About
+- 💻 **Frontend:** HTML, CSS, JavaScript, React, TypeScript  
+- 🌐 **Backend:** Node.js, Express, MongoDB  
+- 🛠 **Tools & Platforms:** Git, GitHub, VS Code, REST APIs  
+- 🎨 **UI/UX:** Responsive design, modern web layouts, animations  
+- ⚡ **Other Interests:** Open-source contributions, learning new frameworks  
+
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/jyoti-j225" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30px"/>
+  </a>
+  <a href="https://github.com/jyotijyoti" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30px"/>
+  </a>
+  <a href="mailto:jyotimathsdev@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30px"/>
+  </a>
+</p>
+
+---
+
+### 🛠 Languages & Tools
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Jyoti-coder1&show_icons=true&theme=tokyonight" width="47%"/>
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jyoti-coder1&layout=compact&theme=tokyonight" width="47%"/>
+</p>
+
+---
+
+### 💭 Fun Fact / Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> 💡 Always aiming to write clean, readable, and efficient code!
