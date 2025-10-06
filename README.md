@@ -43,7 +43,7 @@
   <a href="https://linkedin.com/in/jyoti-j225" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30px"/>
   </a>
-  <a href="https://github.com/jyotijyoti" target="_blank">
+  <a href="https://github.com/Jyoti-coder1" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="30px"/>
   </a>
   <a href="mailto:jyotimathsdev@gmail.com" target="_blank">
